@@ -7,7 +7,7 @@ to run the api
 
 
 to run the frontend
-### `cd statuses/status-list` 
+### `cd status-list` 
 ### `npm start`
 
 
