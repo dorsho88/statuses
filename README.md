@@ -1,7 +1,7 @@
 ### clone the repo
 
 to run the api
-### `cd ../api`
+### `cd api`
 ### `npm install`
 ### `node index`
 
